@@ -1,6 +1,6 @@
 # Evaluacion final de Sara (KarvalaCode)
 
-Resolución de los ejercicios de la evaluación final del modulo 2 de la promo Farzanba en Adalab.
+Resolución de los ejercicios de la evaluación final del modulo 2 de la promo Farzana en Adalab.
 
 Estos ejercicios estan escritos en MySQL Workbench y estan pensados para ejetutarse ene sta herramienta.
 
