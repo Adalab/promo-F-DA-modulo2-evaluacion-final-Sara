@@ -2,7 +2,7 @@
 
 Resolución de los ejercicios de la evaluación final del modulo 2 de la promo Farzana en Adalab.
 
-Estos ejercicios estan escritos en MySQL Workbench y estan pensados para ejetutarse ene sta herramienta.
+Estos ejercicios estan escritos en MySQL Workbench y estan pensados para ejetutarse en esta herramienta.
 
 Base de Datos: Sakila --> Base de datos de ejemplo que simula una tienda de alquiler de películas. 
 Contiene tablas como
